@@ -1,11 +1,11 @@
 {
     "first_pathway": {
         "model_name": "__main",
-        "location": "models/simple/first_pathway.ant",
+        "location": "models/simpleYY/first_pathway.ant",
         "num_species": 2,
         "num_reactions": 1,
         "model_types": [
-            "simple"
+            "simplexx"
         ]
     }
 }
