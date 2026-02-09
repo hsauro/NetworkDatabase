@@ -4,6 +4,8 @@
         "location": "models/simple/first_pathway.ant",
         "num_species": 2,
         "num_reactions": 1,
-        "model_types": []
+        "model_types": [
+            "simple"
+        ]
     }
 }
