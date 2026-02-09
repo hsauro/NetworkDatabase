@@ -7,14 +7,5 @@
         "model_types": [
             "simplexx"
         ]
-    },
-    "simpleYY_first_pathway": {
-        "model_name": "__main",
-        "location": "models/simpleYY/simpleYY_first_pathway.ant",
-        "num_species": 2,
-        "num_reactions": 1,
-        "model_types": [
-            "simplexx"
-        ]
     }
 }
