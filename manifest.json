@@ -1,6 +1,6 @@
 {
     "SimpleModels_first_pathway": {
-        "model_name": "first_pathway",
+        "model_name": "first_pathway_new",
         "location": "models/SimpleModels/SimpleModels_first_pathway.ant",
         "num_species": 2,
         "num_reactions": 1,
