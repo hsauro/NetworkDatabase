@@ -1,1 +1,11 @@
-{}
+{
+    "SimpleModels_first_pathway_new": {
+        "model_name": "first_pathway_new",
+        "location": "models/SimpleModels/SimpleModels_first_pathway_new.ant",
+        "num_species": 2,
+        "num_reactions": 1,
+        "model_types": [
+            "simple"
+        ]
+    }
+}
